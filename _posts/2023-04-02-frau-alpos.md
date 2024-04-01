@@ -8,4 +8,4 @@ tags:
   - homebrew
 ---
 
-![Frau Alpos beer](/assets/images/frau-alpos-1.jpg)
+![Frau Alpos beer](/assets/images/frau-alpos.jpg)
